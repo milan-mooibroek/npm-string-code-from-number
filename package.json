@@ -1,0 +1,15 @@
+{
+  "name": "string-code-from-number",
+  "version": "1.0.2",
+  "description": "Generate a unique string from a number.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milan-mooibroek/npm-string-code-from-number"
+  },
+  "author": "Milan Mooibroek",
+  "license": "MIT"
+}
